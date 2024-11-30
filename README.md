@@ -1,6 +1,6 @@
 ### Configs
 
-My most used configs template so I can get the settings when needed on new projects 
+My most used project settings templates so I can get the settings when needed on new projects 
 
 ### Extensions
 
