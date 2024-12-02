@@ -8,8 +8,5 @@
   "parser": "typescript",
   "endOfLine": "lf",
   "bracketSpacing": true,
-  "useTabs": false,
-  "importOrder": ["<THIRD_PARTY_MODULES>", "^@(.*)$", "^[./]"],
-  "importOrderSeparation": false,
-  "importOrderSortSpecifiers": true
+  "useTabs": false
 }

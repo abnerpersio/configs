@@ -9,7 +9,4 @@ module.exports = {
   endOfLine: 'lf',
   bracketSpacing: true,
   useTabs: false,
-  importOrder: ['<THIRD_PARTY_MODULES>', '^@(.*)$', '^[./]'],
-  importOrderSeparation: false,
-  importOrderSortSpecifiers: true,
 };
