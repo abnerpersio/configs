@@ -8,5 +8,6 @@
   "parser": "typescript",
   "endOfLine": "lf",
   "bracketSpacing": true,
-  "useTabs": false
+  "useTabs": false,
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
